@@ -1,6 +1,6 @@
-🤖 Multi-Disease Prediction System
+🩺 Multi-Disease Prediction System
 
-AI-powered Machine Learning application designed to predict the risk of 🩺 Fever, 🩸 Diabetes, and ❤️ Heart Disease using health-related data.
+An AI-powered Machine Learning application designed to predict the risk of Fever, Diabetes, and Heart Disease using health-related data.
 
 🎯 Objective
 
@@ -19,4 +19,4 @@ Build a single intelligent system that analyzes health information and provides 
 
 🛠️ Tech Stack
 
-🐍 Python • 🐼 Pandas • 🔢 NumPy • 🤖 Scikit-learn • 🌐 Streamlit
+Python • Pandas • NumPy • Scikit-learn • Streamlit
