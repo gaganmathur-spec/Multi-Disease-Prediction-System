@@ -1,12 +1,12 @@
 🩺 Multi-Disease Prediction System
 
-An AI-powered Machine Learning application that predicts the risk of multiple diseases, including Fever, Diabetes, and Heart Disease, using health-related input data.
+An AI-powered Machine Learning application that predicts the risk of Fever, Diabetes, and Heart Disease using health-related input data.
 
 🎯 Objective
 
-To develop a unified Machine Learning system that analyzes health-related information and generates probability-based disease risk predictions using trained classification models.
+Develop a unified Machine Learning system that analyzes health-related information and provides probability-based disease risk predictions using trained classification models.
 
-✨ Key Features
+✨ Features
 
 - 🩺 Fever Risk Prediction
 - 🩸 Diabetes Risk Prediction
@@ -19,11 +19,8 @@ To develop a unified Machine Learning system that analyzes health-related inform
 
 🛠️ Tech Stack
 
-- Programming: Python
-- Data Analysis: Pandas, NumPy
-- Machine Learning: Scikit-learn
-- Web Framework: Streamlit
+Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 🚀 Application
 
-An interactive web application that allows users to enter health-related details and receive instant predictions with probability scores for different disease risks.
+An interactive web application that allows users to enter health-related details and receive instant disease risk predictions with probability scores.
