@@ -4,9 +4,9 @@ An AI-powered Machine Learning application that predicts the risk of Fever, Diab
 
 🎯 Objective
 
-Develop a unified Machine Learning system that analyzes health-related information and provides probability-based disease risk predictions using trained classification models.
+To develop a unified Machine Learning system that analyzes health-related information and provides probability-based disease risk predictions using trained classification models.
 
-✨ Features
+✨ Key Features
 
 - 🩺 Fever Risk Prediction
 - 🩸 Diabetes Risk Prediction
@@ -23,4 +23,4 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 🚀 Application
 
-An interactive web application that allows users to enter health-related details and receive instant disease risk predictions with probability scores.
+An interactive web application that allows users to enter health-related details and receive instant disease risk predictions along with probability scores.
